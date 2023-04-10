@@ -10,7 +10,7 @@ Apenas alguns exemplos de components feitos em JavaScript para treinar minhas ha
 </p>
 
 ### Links
-- [Acesse o projeto finalizado, online ☁️](https://joaoalisonti.github.io/CRUD-JavaScript/)
+- [Acesse o projeto finalizado, online ☁️](https://joaoalisonti.github.io/Components-Js/)
 
 
 ### Autor
